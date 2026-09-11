@@ -12,7 +12,8 @@ O sistema foi pensado para documentos que seguem uma ordem conhecida. Em vez de 
 
 ## Interface
 
-![Interface do PDF_divider](assets/interface.png)
+<img width="822" height="462" alt="PDF_divider" src="https://github.com/user-attachments/assets/d4cdcb6c-4813-4d09-9a6f-9cdb698aa3c1" />
+
 
 ## Sequência padrão de documentos
 
